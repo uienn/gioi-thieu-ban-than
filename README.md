@@ -1,13 +1,14 @@
 # gioi-thieu-ban-than
 thuchanhp2
-# nguyễn thị thu uyên
+# Nguyễn Thị Thu Uyên
 # msv: 24s1080015
-mình là uyên, sinh viên ngành hệ thống thông tin
+Mình là uyên, sinh viên năm 2 ngành hệ thống thông tin
 [ảnh đại diện] (https://share.google/HGWDmN57djL6oTtk3)
-sở thích:
--nghe nhạc
--đọc sách
--xem phim
-# thông tin liên hệ
-email: uyenxd442006@gmail.com
+Sở thích: 
+-Nghe nhạc
+-Đọc sách
+-Xem phim
+# Thông tin liên hệ
+Email: uyenxd442006@gmail.com
+Facebook: https://web.facebook.com/thuuyen.4406
 
